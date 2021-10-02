@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS a_to_z_db;
+
+CREATE DATABASE a_to_z_db;
